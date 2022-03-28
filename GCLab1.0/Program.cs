@@ -17,8 +17,8 @@ do
 
     Console.WriteLine(" You will need "
         + Total_Slices_Needed * 2 + " slices of Bread, "
-        + Peanut_Butter * 2 + " ounces of peanut butter, and "
-        + Jelly * 4 + " ounces of jelly. ");
+        + Peanut_Butter * 2 + " tbsp of peanut butter, and "
+        + Jelly * 4 + " tsp of jelly. ");
 
 
     Console.WriteLine(" That's roughly "
